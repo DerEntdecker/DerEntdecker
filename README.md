@@ -1,0 +1,2 @@
+# DerEntdecker
+Raspberry Pi device
